@@ -5,7 +5,7 @@ I am a 4th year student at Kocaeli University.
 I am currently developing on C, C++, Qt, PHP , Javascript for a company working on the defense industry.
 I am a java spring bootcamp student organized by Patika.dev and Softtech.
 
-Skills: C / C++ / Qt / JAVA - SPRING / C# / SQL(PostgreSql - SQLite) / PHP  
+Skills: C / C++ / Qt / JAVA / SPRING / C# / SQL(PostgreSql - SQLite) / PHP  
 
 - 🌱 I’m currently learning Java Spring  
 - 📫 How to reach me: Mail :erdemozoglu@gmail.com 
